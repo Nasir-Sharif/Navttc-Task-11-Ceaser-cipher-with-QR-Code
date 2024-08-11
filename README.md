@@ -1,4 +1,4 @@
-# Navttc-Task-11-Ceaser-cipher-with-QR-Code
+# Navttc-Task-11-Caeser-cipher-with-QR-Code
 
 # Caesar Cipher with QR Code Generator
 
